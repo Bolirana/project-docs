@@ -1,1 +1,3 @@
+### Juan Pablo Zuluaga Galindo
 
+El tipo de rol que me gustaría desempeñar dentro de un equipo de software es quien profundiza en arquitectura y diseño. Me gusta entender el problema y tomar las decisiones correctas para hacer un diseño sostenible en el tiempo, también me interesa conectar los requerimientos del cliente con la parte técnica para que las soluciones tengan sentido para el cliente y el equipo de trabajo. Las fortalezas que tengo son liderazgo, disciplina y organización y en la parte técnica, habilidad y gusto por resolver problemas. Podría fortalecer mi manejo del tiempo, escuchar más a otros y dar mejor feedback.
