@@ -1,1 +1,2 @@
-
+<h2>Camilo Andres Salinas Cuervo</h2>
+<p>El rol que me gustaría desempeñar en un equipo de software es el de arquitectura y diseño. Siendo más afinidad con estructurar y construir soluciones alineadas con las necesidades del problema. Puedo aportar un pensamiento estructurado y análisis en cuanto si algo funcionará en el mundo real o no, así mismo, la capacidad de entender el aspecto técnico. Por otro lado, veo importante fortalecer la comunicación, para estar alineado con los objetivos de todo el equipo.</p>
