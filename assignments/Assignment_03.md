@@ -10,6 +10,10 @@ El rol que me gustaría desempeñar en un equipo de software es el de arquitectu
 
 Creo que el rol que me gustaria desempeñar dentro de un equipo de desarrollo de software seria el de realizar pruebas y mantener la calidad ya que, considero que soy bueno a la hora de pensar en las ramificaciones que un determinado problema pueda tener y que requesitos necesita una solucion para que el codigo no se rompa dada una entrada inesperada de algun usuario. En cuanto a fortalezas considero que puedo aprender rapidamente conceptos tecnicos y simplificarlos para un mejor entendimiento. Por otra parte, no se me da muy bien comunicar mis propias opiniones con los demas y tiendo a no ser tan disciplinado como deberia en muchas ocasiones.
 
+### Samuel Ricardo Pardo Trujillo
+
+El rol que me gustaría desempeñar dentro de un equipo de software es el de Tester, asegurándome de que cada parte del desarrollo funcione de manera óptima y correcta. Como fortaleza, considero que tengo buena capacidad de coordinación con mis compañeros, facilitando la división y unión del trabajo en equipo. Sin embargo, reconozco que debo mejorar mi manejo del tiempo, ya que suelo postergar las tareas, lo cual en un entorno ágil puede generar retrasos que afectan a todo el equipo.
+
 ## Apartado 2 - Compromisos grupales
 
 Para nuestro proyecto de Ingeniería de Software I, hicimos como grupo una serie de compromisos y expectativas sobre el trabajo como equipo. Comenzando por el uso del tablero Kanban en Github projects, primero creando un proyecto vinculado a los tres repositorios para que todo aparezca en un solo tablero. Las columnas que pensamos usar para los tableros son: pendientes, en progreso, en revisión y listo. Cada tarea debe tener su título claro, persona encargada, repositorio al que pertenece y una etiqueta que indique si es backend, frontend o docs. El límite por tareas en progreso por persona será de 2 y el tablero se actualizará cada vez que alguien mueve una tarea, no solo en las reuniones.
