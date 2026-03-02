@@ -1,6 +1,6 @@
 # WIN 24 🏀⚽️
 
-![Logo WIN24](./project-docs/WIN24Logo.png)
+![Logo WIN24](./WIN24Logo.png)
 
 ## Grupo Bolirana 🐸
 
